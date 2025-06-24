@@ -15,7 +15,7 @@ uv venv  # python version in pyproject.toml, else use --python=3.{x} to specify
 uv sync
 ```
 
-**NOTE:** You may have to add the venv as Jupyter kernel. But in VSCode it should be detected immediately.
+**NOTE:** You may have to add the `.venv` as Jupyter kernel. But in VSCode it should be detected immediately.
 
 ## the notebooks
 
